@@ -1,0 +1,20 @@
+<template>
+  <v-app app>
+    <v-content>
+      <v-container fluid>
+        <h1>Страница не найдена, пиздуй отсюда</h1>
+        <small>лох</small>
+      </v-container>
+    </v-content>
+  </v-app>
+</template>
+
+<script>
+export default {
+  name: 'error'
+}
+</script>
+
+<style scoped>
+
+</style>
